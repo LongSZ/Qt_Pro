@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LJTools.ico</file>
+    </qresource>
+</RCC>
